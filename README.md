@@ -35,9 +35,7 @@ A sleek and interactive web tool to generate, customize, and manage beautiful co
 
 ## 🧪 Preview
 
-![Color Palette Studio Preview](https://via.placeholder.com/800x400.png?text=Color+Palette+Preview)
-
----
+![Color Palette Studio Preview](./public/assets/color-palette-preview.png)
 
 <details>
 <summary><strong>📦 Setup Instructions</strong></summary>
